@@ -9,6 +9,11 @@
 # [LIVE-DEMO](https://rroderickk.github.io/Deploy_library/)
 
 
+[vim-Cheatsheet](https://rroderickk.github.io/vimVSC_cheatSheet/)
+<p align='center'>
+  <img src='https://github.com/rroderickk/vimVSC_cheatSheet/blob/main/assets/demo_game.gif?raw=true' alt='cheatsheet' width='600'/>
+</p>
+
 [the-substance](https://rroderickk.github.io/the-substance/)
 <p align='center'>
   <img src='./assets/the-substance.png' alt='asset' width='600'/>
