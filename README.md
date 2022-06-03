@@ -16,80 +16,80 @@
 
 [the-substance](https://rroderickk.github.io/the-substance/)
 <p align='center'>
-  <img src='./assets/the-substance.png' alt='asset' width='600'/>
+  <img src='./assets/the-substance.png.jpg' alt='asset' width='600'/>
 </p>
 
 [coffe_website](https://rroderickk.github.io/coffe_website/)
 <p align='center'>
-  <img src='./assets/coffe-website-uno.png' alt='asset' width='600'/>
+  <img src='./assets/coffe-website-uno.png.jpg' alt='asset' width='600'/>
 </p>
 
 [nft-landing](https://rroderickk.github.io/nftlanding/)
 <p align='center'>
-  <img src='./assets/nft-landing.png' alt='asset' width='600'/>
+  <img src='./assets/nft-landing.png.jpg' alt='asset' width='600'/>
 </p>
 
 [keepsimpleweb](https://keepsimpleweb.github.io/)
 <p align='center'>
-  <img src='./assets/keepwebsimple.png' alt='asset' width='600'/>
+  <img src='./assets/keepwebsimple.png.jpg' alt='asset' width='600'/>
 </p>
 
 [Igallery](https://rroderickk.github.io/Igallery/)
 <p align='center'>
-  <img src='./assets/igallery.png' alt='asset' width='600'/>
+  <img src='./assets/igallery.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [Text-trail-effect](https://rroderickk.github.io/text-trail-effect/)
 <p align='center'>
-  <img src='./assets/text-trail.png' alt='asset' width='600'/>
+  <img src='./assets/text-trail.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [3d-particles](https://rroderickk.github.io/Three.js-Particle-Earth/)
 <p align='center'>
-  <img src='./assets/particle.png' alt='asset' width='600'/>
+  <img src='./assets/particle.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [coffe-website_dos](https://rroderickk.github.io/coffee_website/)
 <p align='center'>
-  <img src='./assets/coffe-website-dos.jpg' alt='asset' width='600'/>
+  <img src='./assets/coffe-website-dos.jpg.jpg' alt='asset' width='600'/>
 </p>
 
 
 [responsive-portfolio](https://rroderickk.github.io/responsive-portfolio-website/)
 <p align='center'>
-  <img src='./assets/responsive-portfolio.png' alt='asset' width='600'/>
+  <img src='./assets/responsive-portfolio.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [portfolio-personal](https://rroderickk.github.io/portfolio-personal/)
 <p align='center'>
-  <img src='./assets/portfolio-personal.png' alt='asset' width='600'/>
+  <img src='./assets/portfolio-personal.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [eleveNmaps-cybersecurity](https://rroderickk.github.io/EleveNmaps/)
 <p align='center'>
-  <img src='./assets/eleveNmaps.png' alt='asset' width='600'/>
+  <img src='./assets/eleveNmaps.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [s4htb-maquinas-hechas-por-s4vitar-youtuber-cybersecurity](https://rroderickk.github.io/s4htb)
 <p align='center'>
-  <img src='./assets/s4htb.png' alt='asset' width='600'/>
+  <img src='./assets/s4htb.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [todo-app-hardmode](https://rroderickk.github.io/firstapp1/)
 <p align='center'>
-  <img src='./assets/todo.png' alt='asset' width='600'/>
+  <img src='./assets/todo.png.jpg' alt='asset' width='600'/>
 </p>
 
 [my-cv](https://rroderickk.github.io/cv2/)
 <p align='center'>
-  <img src='./assets/cv-classic-mode.png' alt='asset' width='600'/>
+  <img src='./assets/cv-classic-mode.png.jpg' alt='asset' width='600'/>
 </p>
 
 [nodemachine](https://github.com/rroderickk/nodemachine)
@@ -100,51 +100,51 @@
 [trofeos-de-platzi](https://rroderickk.github.io/TempCv1/)
 
 <p align='center'>
-  <img src="/assets/trofeos.png" width='600'>
+  <img src="/assets/trofeos.png.jpg" width='600'>
 </p>
 
 [platzi-badges](https://rroderickk.github.io/platzibadges)
 <p align='center'>
-  <img src='./assets/badges.png' alt='asset' width='600'/>
+  <img src='./assets/badges.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [platzi-agenda-model-router](https://rroderickk.github.io/platziagenda/)
 <p align='center'>
-  <img src='./assets/agenda.png' alt='asset' width='600'/>
+  <img src='./assets/agenda.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [professional](https://rroderickk.github.io/professional/)
 <p align='center'>
-  <img src='./assets/proffesional.png' alt='asset' width='600'/>
+  <img src='./assets/proffesional.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [cryptomonedas-papapabit](https://rroderickk.github.io/mobilefirst)
 <p align='center'>
-  <img src='./assets/papapabit.png' alt='asset' width='600'/>
+  <img src='./assets/papapabit.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [mock-sale](https://rroderickk.github.io/reactPractico/)
 <p align='center'>
-  <img src='./assets/sale.png' alt='asset' width='600'/>
+  <img src='./assets/sale.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [blog-in-progress](https://rroderickk.github.io/)
 <p align='center'>
-  <img src='./assets/blog.png' alt='asset' width='600'/>
+  <img src='./assets/blog.png.jpg' alt='asset' width='600'/>
 </p>
 
 
 [vsc-theme-matrixResolutions4128](https://github.com/rroderickk/matrixResolutions)
 <p align='center'>
-  <img src='./assets/matrix.png' alt='asset' width='600'/>
+  <img src='./assets/matrix.png.jpg' alt='asset' width='600'/>
 </p>
 <p align='center'>
-  <img src='./assets/matrix2.png' alt='asset' width='600'/>
+  <img src='./assets/matrix2.png.jpg' alt='asset' width='600'/>
 </p>
 
 [markdown-previsualizer](https://github.com/rroderickk/MardownPrevisualizer)
@@ -154,5 +154,5 @@
 
 [simply-countdown](https://rroderickk.github.io/countdown/)
 <p align='center'>
-  <img src='./assets/counter.png' alt='asset' width='600'/>
+  <img src='./assets/counter.png.jpg' alt='asset' width='600'/>
 </p>
