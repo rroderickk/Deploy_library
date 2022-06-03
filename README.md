@@ -54,7 +54,7 @@
 
 [coffe-website_dos](https://rroderickk.github.io/coffee_website/)
 <p align='center'>
-  <img src='./assets/coffe-website-dos.png' alt='asset' width='600'/>
+  <img src='./assets/coffe-website-dos.jpg' alt='asset' width='600'/>
 </p>
 
 

@@ -1,2 +1,3 @@
-/assets/img_original/*
-/iloveimg-compressed/
+assets\img_original\**
+/assets/img_original/**
+/iloveimg-compressed/**
