@@ -9,9 +9,17 @@
 # [LIVE-DEMO](https://rroderickk.github.io/Deploy_library/)
 
 
+
+<!-- ----------------------------------------------------------------------------- -->
+
+[BeatBoxJs](https://rroderickk.github.io/beatBoxJS/)
+<p align='center'>
+  <img src='https://github.com/rroderickk/beatBoxJS/raw/main/assets/live.jpg' alt='beatboxjs' width='600'/>
+</p>
+
 [live-battery-level](https://rroderickk.github.io/battery-level-indicator/)
 <p align='center'>
-  <img src='https://github.com/rroderickk/battery-level-indicator/raw/main/preview.png' alt='cheatsheet' width='600'/>
+  <img src='https://github.com/rroderickk/battery-level-indicator/raw/main/preview.png' alt='live-battery-level' width='600'/>
 </p>
 
 [vim-Cheatsheet](https://rroderickk.github.io/vimVSC_cheatSheet/)
