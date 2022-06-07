@@ -8,9 +8,13 @@
 
 # [LIVE-DEMO](https://rroderickk.github.io/Deploy_library/)
 
-
+[NEWMORPHISM](https://rroderickk.github.io/Deploy_library/)
+<p align='center'>
+  <img src='./assets/newmorphism_fat.jpg' alt='newmorphism_fat' width='600'/>
+</p>
 
 <!-- ----------------------------------------------------------------------------- -->
+
 
 [BeatBoxJs](https://rroderickk.github.io/beatBoxJS/)
 <p align='center'>
