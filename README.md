@@ -160,8 +160,7 @@
 </a>
 
 [trofeos-de-platzi](https://rroderickk.github.io/TempCv1/)
-https://rroderickk.github.io/TempCv1/
-<a href="">
+<a href="https://rroderickk.github.io/TempCv1/">
   <p align='center'>
     <img src="/assets/trofeos.png.jpg" width='600'>
   </p>
@@ -221,7 +220,7 @@ https://rroderickk.github.io/TempCv1/
     <img src='./assets/matrix.png.jpg' alt='asset' width='600'/>
   </p>
 </a>
-<a href="">
+<a href="https://github.com/rroderickk/matrixResolutions">
   <p align='center'>
     <img src='./assets/matrix2.png.jpg' alt='asset' width='600'/>
   </p>
