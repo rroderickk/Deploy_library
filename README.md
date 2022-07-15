@@ -160,8 +160,7 @@
 </a>
 
 [trofeos-de-platzi](https://rroderickk.github.io/TempCv1/)
-https://rroderi rel="noopener noreferer" target="_blank"ckk.github.io/TempCv1/
-<a href="">
+<a href="https://rroderickk.github.io/TempCv1/"  rel="noopener noreferer" target="_blank">
   <p align='center'>
     <img src="/assets/trofeos.png.jpg" width='600'>
   </p>
