@@ -46,11 +46,7 @@
 </a>
 
 [vim-Cheatsheet](https://rroderickk.github.io/vimVSC_cheatSheet/)
-<a href="https://rroderickk.github.io/vimVSC_cheatSheet/" rel="noopener noreferer" target="_blank">
-  <p align='center'>
-    <img src='https://raw.githubusercontent.com/rroderickk/vimVSC_cheatSheet/main/assets/demo_game.gif' alt='cheatsheet' width='600'/>
-  </p>
-</a>
+![vim-Cheatsheet](https://raw.githubusercontent.com/rroderickk/vimVSC_cheatSheet/main/assets/demo_game.gif)
 
 [the-substance](https://rroderickk.github.io/the-substance/)
 <a href="https://rroderickk.github.io/the-substance/" rel="noopener noreferer" target="_blank">
