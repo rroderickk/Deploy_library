@@ -28,7 +28,7 @@ list = [
   'todo.png',
 ]
 
-def _reduce_fat(name):
+def _reduce_fat(name: str) -> None:
   imagen = Image.open(name)
   imagen = imagen.convert('RGB')
   imagen.save(f'new/{name}.jpg', quality=30)
