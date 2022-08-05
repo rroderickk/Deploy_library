@@ -48,7 +48,7 @@
 [vim-Cheatsheet](https://rroderickk.github.io/vimVSC_cheatSheet/)
 <a href="https://rroderickk.github.io/vimVSC_cheatSheet/" rel="noopener noreferer" target="_blank">
   <p align='center'>
-    <img src='https://github.com/rroderickk/vimVSC_cheatSheet/blob/main/assets/demo_game.gif?raw=true' alt='cheatsheet' width='600'/>
+    <img src='https://raw.githubusercontent.com/rroderickk/vimVSC_cheatSheet/main/assets/demo_game.gif' alt='cheatsheet' width='600'/>
   </p>
 </a>
 
@@ -166,11 +166,7 @@
 </a>
 
 [trofeos-de-platzi](https://rroderickk.github.io/TempCv1/)
-<<<<<<< HEAD
 <a href="https://rroderickk.github.io/TempCv1/"  rel="noopener noreferer" target="_blank">
-=======
-<a href="https://rroderickk.github.io/TempCv1/">
->>>>>>> f845ca1 ([ 🕴)
   <p align='center'>
     <img src="/assets/trofeos.png.jpg" width='600'>
   </p>
