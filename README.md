@@ -17,6 +17,12 @@
 
 <!-- ----------------------------------------------------------------------------- -->
 
+[Me-gndx](https://rroderickk.github.io/me-gndx/)
+<a href="https://rroderickk.github.io/me-gndx/" rel="noopener noreferer" target="_blank">
+  <p align='center'>
+    <img src='https://github.com/rroderickk/me-gndx/blob/main/assets/sc.png?raw=true' alt='me' width='600'/>
+  </p>
+</a>
 
 [Me](https://rroderickk.github.io/me/)
 <a href="https://rroderickk.github.io/me/" rel="noopener noreferer" target="_blank">
